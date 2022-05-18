@@ -7,7 +7,11 @@
   }  
   body{  
     font-family: sans-serif;  
-    background-image: linear-gradient(to bottom right, rgba(189,13,34,1),rgba(2,0,184,1), rgba(0,0,0,1));  
+    background-image: url(https://scontent.faju17-1.fna.fbcdn.net/v/t39.30808-6/277795658_5589074784453283_88896121361058744_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeGYRTRk9mh66_q-JeE7Q-1iFCpy6y9ofZUUKnLrL2h9lbpTyNgrc5rRn5NzxTjcfTthb9Ukl-yVrZizMR7Rc3sB&_nc_ohc=bRT-3UKOXzcAX9OxP6Y&_nc_ht=scontent.faju17-1.fna&oh=00_AT-VmppFCogqjBIbCp0Y71oZMAlk6SM3YRnCiSxnO4d1ag&oe=62895BF8);
+    background-repeat: repeat;
+    background-position: center center ;
+    background-size: cover;
+    background-attachment: fixed;
   }  
   a{  
     text-decoration: none;  
@@ -15,7 +19,7 @@
   }  
   .container{  
     height: 100vh;  
-    width: 100vw;  
+    width: 50vw;  
     display: grid;  
     place-items: center;  
   }  
